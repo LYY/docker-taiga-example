@@ -1,5 +1,5 @@
 FROM liuyuyu/docker-taiga
-MAINTAINER Benjamin Hutchins <ben@hutchins.co>
+LABEL maintainer="shinxjl@gmail.com"
 
 ## Install Slack extension
 RUN LC_ALL=C pip install --no-cache-dir taiga-contrib-slack
