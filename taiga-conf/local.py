@@ -6,7 +6,7 @@
 # https://github.com/taigaio/taiga-back/blob/master/settings/common.py
 from .docker import *
 
-PUBLIC_REGISTER_ENABLED = False
+PUBLIC_REGISTER_ENABLED = True
 DEBUG = False
 TEMPLATE_DEBUG = False
 

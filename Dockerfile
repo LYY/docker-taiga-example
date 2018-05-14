@@ -1,4 +1,4 @@
-FROM benhutchins/taiga
+FROM liuyuyu/docker-taiga
 MAINTAINER Benjamin Hutchins <ben@hutchins.co>
 
 ## Install Slack extension
